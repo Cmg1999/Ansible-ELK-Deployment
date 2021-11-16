@@ -59,7 +59,7 @@ A summary of the access policies in place can be found in the table below.
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
 | Jump Box | NO                  | 108.58.146.214|
-|    ELK      | Front-End Yes Back-End No  | 10.0.0.5 (Back-End) 108.58.146.214 (Front-End Port:5601) |
+|    ELK      | Front-End No Back-End No  | 10.0.0.5 (Back-End) 108.58.146.214 (Front-End Port:5601) |
 |   Web-1, 2, & 3  |Front-End Yes Back-End No | 10.0.0.5 (Back-End) Any IP (Front-End Port:80) |
 
 ### Elk Configuration
